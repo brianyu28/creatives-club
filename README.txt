@@ -1,30 +1,18 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# CreativesClub.Art
 
+Creatives Club seeks to bring like-minded people together to socialize and
+co-work on creative projects. It's based in the Washington, DC metro area!
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+## About This Website
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+In addition to being a landing page for the club, this website is also a
+template! The entire website can be downloaded and used as a template for
+people that want to build their own website using HTML and CSS!
 
-(* = not included)
+## How to Use This Site as a Template
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+1. Download the code from GitHub
+2. Make a NeoCities account
+3. Upload the code to NeoCities
+4. Update the site text
+5. Research other changes to make!
