@@ -22,4 +22,5 @@ people that want to build their own website using HTML and CSS.
 
 ## Change log
 ### 2024-09-25
+- Add unlinked WIP subgroups page
 - Update README with template instructions and change log
