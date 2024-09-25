@@ -1,18 +1,25 @@
 # CreativesClub.Art
 
-Creatives Club seeks to bring like-minded people together to socialize and
-co-work on creative projects. It's based in the Washington, DC metro area!
+Creatives Club seeks to bring like-minded people together to socialize and work
+together or separately on creative projects.
+Right now the club is based in the Washington, DC metro area,
+but we hope to one day expand to other cities and use our Discord server as
+a way to keep communities connected.
 
-## About This Website
+## About this website
 
 In addition to being a landing page for the club, this website is also a
 template! The entire website can be downloaded and used as a template for
-people that want to build their own website using HTML and CSS!
+people that want to build their own website using HTML and CSS.
 
-## How to Use This Site as a Template
+## How to use this site as a template
 
 1. Download the code from GitHub
-2. Make a NeoCities account
-3. Upload the code to NeoCities
+2. Make a [Neocities](https://neocities.org/) account
+3. Upload the code to Neocities
 4. Update the site text
-5. Research other changes to make!
+5. Think about what else you want to change and start Googling!
+
+## Change log
+### 2024-09-25
+- Update README with template instructions and change log
