@@ -368,8 +368,12 @@ main {
         flex-direction: column-reverse;
     }
     .center,
+    main h1 {
+        text-align: center;
+    }
     .welcome-text {
         width: auto;
+        text-align: center;
     }
     /*  */
     .described-images {
