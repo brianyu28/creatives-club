@@ -245,6 +245,33 @@ a:hover {
     text-align: justify;
 }
 
+.side-by-side {
+    display: flex;
+    /* Vertically centers the items */
+    align-items: center;
+    column-gap: 20px;
+    margin-top: 10px;
+}
+
+.side-by-side-child {
+    /* flex: 1; */
+    /* Horizontally centers the items */
+    justify-content: center;
+}
+
+.circle-crop {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circle-crop img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
 /* this is the color of the main content area,
 between the sidebars! */
 main {
