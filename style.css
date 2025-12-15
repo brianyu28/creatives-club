@@ -200,6 +200,14 @@ a:hover {
     border: 1px solid var(--debug-border);
 }
 
+/* --------- */
+/* Main Page */
+/* --------- */
+
+section {
+    margin: 5%;
+}
+
 .intro-section {
     display: flex;
 }
@@ -218,6 +226,7 @@ a:hover {
 .described-images {
     justify-content: space-between;
     display: flex;
+    column-gap: 10%;
     border: 1px solid var(--debug-border);
 }
 
@@ -228,8 +237,6 @@ a:hover {
 .flex-block {
     /* width: 40%; */
     flex: 1;
-    padding-left: 5%;
-    padding-right: 5%;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid var(--debug-border);
@@ -243,6 +250,8 @@ a:hover {
     margin: 0;
     padding: 0;
     text-align: justify;
+    hyphens: auto; 
+    word-break: break-word;
 }
 
 .side-by-side {
@@ -257,6 +266,11 @@ a:hover {
     /* flex: 1; */
     /* Horizontally centers the items */
     justify-content: center;
+}
+
+.side-by-side-child img {
+    max-width: 50px;
+    max-height: 50px;
 }
 
 .circle-crop {
@@ -364,6 +378,19 @@ main {
     .left-block,
     .right-block {
         width: auto;
+    }
+    section {
+        margin: 0;
+        /* margin: auto; */
+        /* width: 100%; */
+    }
+    .flex-block {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .side-by-side-child img {
+        width: 30px;
+        height: 30px;
     }
 }
 
