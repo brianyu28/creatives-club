@@ -242,6 +242,7 @@ a:hover {
 .text-span {
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 /* this is the color of the main content area,
