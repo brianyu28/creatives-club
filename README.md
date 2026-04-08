@@ -26,6 +26,7 @@ The CSS this site uses is based on a template by
 
 ## Change log
 ### 2026-04-07
+- Add Boulder logo
 - Move DC calendar page to DC Events
 - Add Boulder Events calendar
 - Add links to city pages on home page nav bar
