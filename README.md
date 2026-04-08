@@ -25,6 +25,10 @@ The CSS this site uses is based on a template by
    how to make those changes!
 
 ## Change log
+### 2026-04-07
+- Move DC calendar page to DC Events
+- Add Boulder Events calendar
+- Add links to city pages on home page nav bar
 ### 2024-09-25
 - Add unlinked WIP subgroups page
 - Update README with template instructions and change log
